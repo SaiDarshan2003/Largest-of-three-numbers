@@ -66,6 +66,6 @@ namespace Conditional
 ```
 
 ## Output:
-
+![inp](4.jpg)
 ## Result:
 Thus the C# program to find the largest of three numbers is executed successfully
