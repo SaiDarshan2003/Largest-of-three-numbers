@@ -1,6 +1,6 @@
-# Largest-of-three-numbers
+# Largest of three numbers
 ## Aim:
-To write a C# program to find the largest of three numbers
+To write a C# program to find the largest of three numbers.
 ## Algorithm:
 ### Step 1:
 Create a class and declare three variable with integer datatype
