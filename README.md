@@ -38,12 +38,6 @@ namespace Conditional
             {
                 Console.WriteLine("The Third is the largest of Three Numbers");
             }
-            else if(num1 < num2 && num1 < num3 && num2 == num3 )
-            {
-                Console.WriteLine("Second and Third number are equal");
-            }
-            else if (num2 < num1 && num2 < num3 && num1 == num3)
-          
             else
             {
                 Console.WriteLine("All the numbers are equal");
