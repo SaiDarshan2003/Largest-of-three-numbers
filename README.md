@@ -9,7 +9,7 @@ Use if condition to check whether num1 is largest than num2 and num3
 ### Step 3:
 Use elif condition to check whether num2 is largest than num1 and num3
 ### Step 4:
-Use else condition to display that third variable is largest among all the variables
+Use else condition to display that third variable is largest among all the variables.
 ## Program:
 ```
 using System;
